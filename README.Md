@@ -1,7 +1,7 @@
 # Docker
 
-	**O que é?**
-	----
+	O que é?
+	
 	No dia a dia do desenvolvedor buscamos ferramentas que nos auxilie a ser mais produtivo e esse é o contexto em que o docker se encontra. Ele é uma plataforma open source desenvolvido pela Google com a linguagem de programação GO e permite criar containers, o qual agrupa parte de softwares de um sistema de arquivo completo que tem os recursos necessários para a sua execução.
 
 #Dockerfile
